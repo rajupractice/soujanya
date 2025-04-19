@@ -3,4 +3,4 @@ terraform {
     source =
     version
     }
-required _version = ""
+required _version = "3.14.34"
